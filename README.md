@@ -9,9 +9,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
