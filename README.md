@@ -6,4 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vaikhari2006/LeetCode/tree/master/0058-length-of-last-word) |
 | [1678-goal-parser-interpretation](https://github.com/Vaikhari2006/LeetCode/tree/master/1678-goal-parser-interpretation) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
