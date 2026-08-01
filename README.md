@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
+| [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
