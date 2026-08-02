@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -40,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
