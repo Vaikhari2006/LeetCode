@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vaikhari2006/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaikhari2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1678-goal-parser-interpretation](https://github.com/Vaikhari2006/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Vaikhari2006/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Vaikhari2006/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Vaikhari2006/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaikhari2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
