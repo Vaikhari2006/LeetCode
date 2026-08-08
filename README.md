@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Vaikhari2006/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0728-self-dividing-numbers](https://github.com/Vaikhari2006/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Vaikhari2006/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Vaikhari2006/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
