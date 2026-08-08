@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaikhari2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1678-goal-parser-interpretation](https://github.com/Vaikhari2006/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Vaikhari2006/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaikhari2006/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Array
 |  |
 | ------- |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaikhari2006/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3731-find-missing-elements](https://github.com/Vaikhari2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaikhari2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaikhari2006/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
