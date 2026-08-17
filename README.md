@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vaikhari2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vaikhari2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaikhari2006/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vaikhari2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
