@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vaikhari2006/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaikhari2006/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaikhari2006/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vaikhari2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
