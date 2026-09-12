@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vaikhari2006/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vaikhari2006/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaikhari2006/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Vaikhari2006/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaikhari2006/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaikhari2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1678-goal-parser-interpretation](https://github.com/Vaikhari2006/LeetCode/tree/master/1678-goal-parser-interpretation) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vaikhari2006/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Vaikhari2006/LeetCode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vaikhari2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Vaikhari2006/LeetCode/tree/master/0242-valid-anagram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaikhari2006/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vaikhari2006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
