@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vaikhari2006/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Vaikhari2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/Vaikhari2006/LeetCode/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/Vaikhari2006/LeetCode/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaikhari2006/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaikhari2006/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vaikhari2006/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Vaikhari2006/LeetCode/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Vaikhari2006/LeetCode/tree/master/0561-array-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vaikhari2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vaikhari2006/LeetCode/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaikhari2006/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String Matching
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vaikhari2006/LeetCode/tree/master/0836-rectangle-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vaikhari2006/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
