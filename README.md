@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaikhari2006/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Vaikhari2006/LeetCode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Vaikhari2006/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaikhari2006/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaikhari2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vaikhari2006/LeetCode/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vaikhari2006/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
