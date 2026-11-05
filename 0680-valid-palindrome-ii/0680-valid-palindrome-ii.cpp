@@ -13,13 +13,11 @@ public:
         int j=s.size()-1;
 
         while(i<j){
-            if(s[i]==s[j]){
-                i++;
-                j--;
-            }
-            else{
+            if(s[i]!=s[j]){
                 return check(s,i+1,j) || check(s,i,j-1);
             }
+            i++;
+            j--;
 
         }
         return true;
