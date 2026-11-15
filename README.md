@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaikhari2006/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Vaikhari2006/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Vaikhari2006/LeetCode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Vaikhari2006/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vaikhari2006/LeetCode/tree/master/0486-predict-the-winner) |
