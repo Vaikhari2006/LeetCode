@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Vaikhari2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vaikhari2006/LeetCode/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaikhari2006/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Vaikhari2006/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vaikhari2006/LeetCode/tree/master/0242-valid-anagram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaikhari2006/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
